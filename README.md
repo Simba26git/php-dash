@@ -270,7 +270,7 @@ This project is open-sourced software licensed under the MIT license.
 
 ## 👤 Author
 
-Your Name - [GitHub Profile]
+Your Name - Simbarashe Gunundu
 
 ## 🙏 Acknowledgments
 
